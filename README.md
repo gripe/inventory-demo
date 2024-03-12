@@ -1,5 +1,7 @@
 # inventory-demo
 
+![Demonstration gif.](demo.gif)
+
 Note: For "Your inventory" you are considered player ID 0, the first player. Removing this player removes "you" so the fixed inventory screen disappears.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
